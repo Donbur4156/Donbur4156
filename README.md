@@ -4,8 +4,7 @@
  
 
 ### Connect with me:
-
-[<img align="left" alt="Discord @jplight" width="22px" src="https://simpleicons.org/icons/about-dot-me.svg" />][website]
+[<img align="left" alt="Discord @jplight" width="22px" src="https://github.com/Zeyecx/Zeyecx/blob/master/.github/img/googlechrome.svg" />][website]
 
 <br/>
 
@@ -13,7 +12,7 @@
 
 Java, C++, Python
 
-[website]: https://www.zeyecx.com/Donbotti
+[website]: https://www.donbotti.de
 [lichess]: https://lichess.org/@/Donbur
 
 
