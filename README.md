@@ -4,7 +4,7 @@
  
 
 ### Connect with me:
-[<img align="left" alt="Discord @jplight" width="22px" src="https://github.com/Zeyecx/Zeyecx/blob/master/.github/img/googlechrome.svg" />][website]
+[<img align="left" alt="Discord @jplight" width="22px" src="https://github.com/Fennvel/Fennvel/blob/master/.github/img/googlechrome.svg" />][website]
 
 <br/>
 
