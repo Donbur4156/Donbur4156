@@ -10,7 +10,7 @@
 
 ### Languages and Tools: 
 
-Java, C++, Python
+Python, Java
 
 [website]: https://www.donbotti.de
 [lichess]: https://lichess.org/@/Donbur
